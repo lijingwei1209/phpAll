@@ -26,7 +26,7 @@ include ('qq.php');
                     <dd class="margin_tb10">联系人：王经理</dd>
                     <dd class="margin_tb10">电话：17739798657  / 18903835209</dd>
                     <dd class="margin_tb10">邮箱：<a href="mailto:wangzhihui1369@163.com" style="text-decoration: none">wangzhihui1369@163.com</a></dd>
-                    <dd class="margin_tb10">网址：<a href="http://www.tengyushengwu.com">www.tengyushengwu.com</a> </dd>
+                    <dd class="margin_tb10">网址：<a href="http://www.tengyubio.com">www.tengyubio.com</a> </dd>
                 </dl>
             </div>
 
