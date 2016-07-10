@@ -1,0 +1,125 @@
+.container{
+    width: 65%;
+}
+
+.navbar-nav li a{
+    height:50px;
+    line-height:50px;
+    display:inline-table;
+    font-size:18px
+}
+.navbar-nav>li>a:hover{
+    color:#0088CC;
+    background-color:#FFFFFF
+}
+
+
+#myCarousel{
+    height: 600px;
+}
+#myCarousel img{
+    margin: 0 auto;
+    max-width: 90%;
+    height: 600px;
+}
+.carousel-control{
+    font-size: 50px;
+    padding-top: 17%;
+}
+
+
+
+.logoImg{
+    float: left;
+    height: 45px;
+    margin-top: -10px;
+    line-height: 50px;
+}
+
+.logoFont{
+    float: left;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: -5px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.margin_tb10{
+    margin: 10px 0;
+}
+
+.margin_tb20{
+    margin: 20px 0;
+}
+
+.margin_tb50{
+    margin: 50px 0;
+}
+
+.footer{
+    margin-top: 50px;
+    height: 75px;
+    line-height: 75px;
+    vertical-align: middle;
+    background-color: #cccccc;
+}
+/*产品中心*/
+.product{
+    background: url("/tengyu/public/images/product.jpg");
+    background-size: cover;
+    height: 550px;
+}
+.product_font{
+    margin-top: 220px;
+    color: #2e5ea5;
+    font-size: 24px;
+}
+
+.product_div{
+    margin: 0 auto;
+    width: 280px;
+    height: 400px;
+    vertical-align: middle;
+    overflow: hidden;
+}
+
+.product_img{
+    width: 250px;
+    margin:10px auto 0 auto;
+}
+
+.product_desc{
+    font-size: 20px;
+}
+
+
+/*关于我们*/
+.about_us{
+    background: url("/tengyu/public/images/about.jpg");
+    background-size: cover;
+    height: 350px;
+}
+
+.about_font{
+    margin-top: 220px;
+    color: #000000;
+    font-size: 24px;
+}
+
+.about_ul{
+    list-style-image: url("/tengyu/public/images/ul.png");
+}
+
+/*联系我们*/
+.contact_us{
+    background: url("/tengyu/public/images/contact.jpg");
+    background-size: cover;
+    height: 550px;
+}
+
+.contact_font{
+    margin-top: 100px;
+    color: #2e5ea5;
+    font-size: 24px;
+}
