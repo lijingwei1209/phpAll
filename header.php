@@ -12,7 +12,7 @@
     <script type="text/javascript" src="/tengyu/public/js/jquery-2.2.2.min.js"></script>
     <script type="text/javascript" src="/tengyu/public/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="/tengyu/public/images/tengyu.ico" type="image/x-icon" />
-    <title>腾宇生物</title>
+    <title>河南腾宇生物科技有限公司</title>
 </head>
 <script type="text/javascript">
     var browser={
@@ -36,7 +36,9 @@
 
     $(document).ready(function(){
         if(browser.versions.mobile){
-            $(".container").css("width","95%")
+            $(".container").css("width","95%");
+            $(".logoImg").css({"width":30,"height":35,"margin-top":-5});
+            $(".logoFont").css({"margin-top":-13});
         }
     })
 
@@ -56,7 +58,7 @@
             </button>
             <a class="navbar-brand" href="index.php">
                 <img  src="/tengyu/public/images/logo.jpg"  class="logoImg">
-                <div class="logoFont">河南腾宇生物科技有限公司</div>
+                <div class="logoFont">河南腾宇生物科技</div>
             </a>
         </div>
 
