@@ -39,6 +39,7 @@
             $(".container").css("width","95%");
             $(".logoImg").css({"width":30,"height":35,"margin-top":-5});
             $(".logoFont").css({"margin-top":-13});
+            $(".lanrenzhijia_service").hide();
         }
     })
 
