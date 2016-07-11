@@ -38,8 +38,10 @@
     $(document).ready(function(){
         if(browser.versions.mobile){
             $(".container").css("width","95%");
-            $(".logoImg").css({"width":30,"height":35,"margin-top":-5});
-            $(".logoFont").css({"margin-top":-13}).text("河南腾宇生物科技");
+            $(".logoImg").css({"width":35,"height":33,"margin-top":-6});
+            $(".logoFont").css({"margin-top":-15}).text("河南腾宇生物科技");
+            $("#myCarousel").css({"height":300});
+            $("#myCarousel img").css({"height":300});
             $(".lanrenzhijia_service").hide();
         }
     })

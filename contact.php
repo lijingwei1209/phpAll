@@ -32,7 +32,7 @@ include ('qq.php');
 
             <div class="col-lg-4 text-center">
                 <img src="/tengyu/public/images/saomiao.jpg" width="210" height="215">
-                <h3>扫码关注</h3>
+                <h3>微信扫码关注</h3>
             </div>
         </div>
     </div>
