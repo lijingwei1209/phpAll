@@ -6,10 +6,10 @@ include ('qq.php');
 <section class="product">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 col-lg-offset-6 product_font">
+            <div class="col-lg-5 col-lg-offset-7 product_font">
                 <div>
                     <h1>品质决定一切</h1>
-                    <p class="col-lg-offset-1"> 产品是我们最好的广告</p>
+                    <p class="col-lg-offset-1"> 最低的价格  最优的产品</p>
                 </div>
             </div>
         </div>

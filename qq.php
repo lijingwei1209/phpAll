@@ -11,12 +11,11 @@ img{ border:0;}
 <div class="lanrenzhijia_service">
   <ul>
     <span class="right_bar"></span>
-    <a href="http://wpa.qq.com/msgrd?v=3&uin=770218151&site=qq&menu=yes" class="right_qq" ></a>
-
-    <span class="right_phone"><a href="http://wpa.qq.com/msgrd?v=3&uin=294644634&site=qq&menu=yes" class="right_qq" ></a></span>
+    <a href="http://wpa.qq.com/msgrd?v=3&uin=770218151&site=河南腾宇生物科技有限公司&Menu=yes" class="right_qq"></a>
+    <span class="right_phone"><a href="http://wpa.qq.com/msgrd?v=3&uin=294644634&site=河南腾宇生物科技有限公司&Menu=yes" class="right_qq" ></a></span>
   </ul>
 </div>
-<script src="http://www.lanrenzhijia.com/ajaxjs/jquery.min.js"></script>
+
 <script>
         $(function(){
             $(".lanrenzhijia_service").hover(function(){

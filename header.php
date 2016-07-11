@@ -4,15 +4,15 @@
     <meta charset="UTF-8">
     <meta name="baidu-site-verification" content="F2IvmbHPiv" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-    <meta name="Description" content="腾宇生物，河南腾宇生物科技有限公司">
-    <meta name="keywords" content="腾宇生物，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
+    <meta name="keywords" content="腾宇生物，腾宇，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
+    <meta name="Description" content="腾宇生物，腾宇，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
     <link href="/tengyu/public/css/bootstrap.min.css" rel="stylesheet">
     <link href="/tengyu/public/css/reset.css" rel="stylesheet">
     <link href="/tengyu/public/css/tengyu.css" rel="stylesheet">
     <script type="text/javascript" src="/tengyu/public/js/jquery-2.2.2.min.js"></script>
     <script type="text/javascript" src="/tengyu/public/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="/tengyu/public/images/tengyu.ico" type="image/x-icon" />
-    <title>河南腾宇生物科技有限公司</title>
+    <title>腾宇生物</title>
 </head>
 <script type="text/javascript">
     var browser={
@@ -38,7 +38,7 @@
         if(browser.versions.mobile){
             $(".container").css("width","95%");
             $(".logoImg").css({"width":30,"height":35,"margin-top":-5});
-            $(".logoFont").css({"margin-top":-13});
+            $(".logoFont").css({"margin-top":-13}).text("河南腾宇生物科技");
             $(".lanrenzhijia_service").hide();
         }
     })
@@ -59,7 +59,7 @@
             </button>
             <a class="navbar-brand" href="index.php">
                 <img  src="/tengyu/public/images/logo.jpg"  class="logoImg">
-                <div class="logoFont">河南腾宇生物科技</div>
+                <div class="logoFont">河南腾宇生物科技有限公司</div>
             </a>
         </div>
 

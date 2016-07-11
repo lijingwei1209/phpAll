@@ -9,7 +9,7 @@ include ('qq.php');
         <div class="row">
             <div class="col-lg-8 col-lg-offset-1 contact_font">
                 <h1>客户至上</h1>
-                <div class="col-lg-offset-1"><p>为您提供最优的服务</p></div>
+                <div class="col-lg-offset-1"><p>为您提供最真诚的服务</p></div>
             </div>
         </div>
     </div>

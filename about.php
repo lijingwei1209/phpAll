@@ -17,7 +17,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-5 col-sm-10 text-center">
-                <img src="/tengyu/public/images/logo.jpg" width="60%">
+                <img src="/tengyu/public/images/logo2.jpg" width="50%">
                 <h3>腾宇生物</h3>
             </div>
             <div class="col-lg-7 col-sm-12">
