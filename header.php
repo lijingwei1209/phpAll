@@ -13,7 +13,7 @@
     <script type="text/javascript" src="/tengyu/public/js/jquery-2.2.2.min.js"></script>
     <script type="text/javascript" src="/tengyu/public/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="/tengyu/public/images/tengyu.ico" type="image/x-icon" />
-    <title>河南腾宇生物科技有限公司</title>
+    <title>腾宇生物</title>
 </head>
 <script type="text/javascript">
     var browser={
