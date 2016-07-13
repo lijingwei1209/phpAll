@@ -5,8 +5,8 @@
     <meta name="baidu-site-verification" content="F2IvmbHPiv" />
     <meta name="shenma-site-verification" content="61b94107119457b270a0e7abe16bcd5a_1468221866"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
-    <meta name="keywords" content="腾宇生物，腾宇生物科技，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
-    <meta name="Description" content="腾宇生物，腾宇生物科技，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
+    <meta name="keywords" content="腾宇生物，腾宇生物科技，河南腾宇生物科技，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
+    <meta name="Description" content="腾宇生物，腾宇生物科技，河南腾宇生物科技，河南腾宇生物科技有限公司,实验科学仪器、各种实验耗材、分子生物学试剂、细胞学试剂、免疫学试剂、蛋白质组学试剂、生化试剂">
     <link href="/tengyu/public/css/bootstrap.min.css" rel="stylesheet">
     <link href="/tengyu/public/css/reset.css" rel="stylesheet">
     <link href="/tengyu/public/css/tengyu.css" rel="stylesheet">
