@@ -14,6 +14,18 @@
     <script type="text/javascript" src="/tengyu/public/js/bootstrap.min.js"></script>
     <link rel="shortcut icon" href="/tengyu/public/images/tengyu.ico" type="image/x-icon" />
     <title>河南腾宇生物科技有限公司</title>
+
+    <script>
+        //百度统计
+        var _hmt = _hmt || [];
+        (function() {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?b5214bbc3b47fd73eeaef0d2a488b38c";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
 </head>
 <script type="text/javascript">
     var browser={
@@ -48,16 +60,8 @@
 
 </script>
 
-<!--百度统计-->
-<script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "//hm.baidu.com/hm.js?b5214bbc3b47fd73eeaef0d2a488b38c";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
+
+
 
 
 <body>
