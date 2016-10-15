@@ -77,7 +77,7 @@
             </button>
             <a class="navbar-brand" href="index.php">
                 <img  src="/tengyu/public/images/logo.jpg"  class="logoImg">
-                <h4 class="logoFont" title="河南腾宇生物科技有限公司">河南腾宇生物科技有限公司</h4>
+                <h3 class="logoFont" title="河南腾宇生物科技有限公司">河南腾宇生物科技有限公司</h3>
             </a>
         </div>
 
