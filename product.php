@@ -47,7 +47,7 @@ include ('qq.php');
                                             <img src="/tengyu/public/images/product/xueqing2.jpg" class="product_img">
                                         </div>
                                         <div class="product_desc">
-                                            <p>ZETA胎牛血清</p>
+                                            <p>ZETA 胎牛血清</p>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-md-3 text-center margin_tb20 ">
@@ -55,7 +55,7 @@ include ('qq.php');
                                             <img src="/tengyu/public/images/product/zeta.jpg" class="product_img">
                                         </div>
                                         <div class="product_desc">
-                                            <p>ZETA胎牛血清</p>
+                                            <p>ZETA 胎牛血清</p>
                                         </div>
                                     </div>
                                     <div class="col-xs-12 col-md-3 text-center margin_tb20 ">
