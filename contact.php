@@ -22,7 +22,7 @@ include ('qq.php');
             <div class="col-lg-5 col-lg-offset-2">
                 <dl>
                     <dd class="margin_tb20"><h2>公司联系方式</h2></dd>
-                    <dd class="margin_tb10">地址：郑州市高新区长椿路11号国家大学科技园</dd>
+                    <dd class="margin_tb10">地址：郑州市高新区翠竹街100号郑州大学科技园众创空间210</dd>
                     <dd class="margin_tb10">联系人：王经理</dd>
                     <dd class="margin_tb10">电话：<a href="tel:17739798657">17739798657</a>  / <a href="tel:18903835209">18903835209</a></dd>
                     <dd class="margin_tb10">邮箱：<a href="mailto:wangzhihui1369@163.com" style="text-decoration: none">wangzhihui1369@163.com</a></dd>
